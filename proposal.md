@@ -1,5 +1,12 @@
 Team #6
 
-Correlation of some data .....
+crime rate vs incomve level by zipcode
+crime rate vs time of the year
+crime status: cleared
+Type of crimes
+crime rate vs year (2015, 2016, 2017)
 
-Data Sources: .........
+
+
+Data Sources: https://data.austintexas.gov/Public-Safety/Crime-Reports-beta-/fdj4-gpfu
+census
