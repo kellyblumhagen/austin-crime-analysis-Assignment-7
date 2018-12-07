@@ -1,4 +1,8 @@
-### Team #6
+# Title : Crime Reports in Austin
+                                        
+# Team members : Amro, Mounica, Kelly, Petros
+
+# Team #6
 
 1. crime rate vs income level by zipcode 2018 (for both violent crimes and all crimes in general)
 2. crime rate vs time of the year in 2018
