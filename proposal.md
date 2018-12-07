@@ -1,4 +1,4 @@
-###Team #6
+### Team #6
 
 1. crime rate vs incomve level by zipcode
 2. crime rate vs time of the year
@@ -8,6 +8,6 @@
 
 
 
-###Data Sources: 
+### Data Sources: 
 1. https://data.austintexas.gov/Public-Safety/Crime-Reports-beta-/fdj4-gpfu
 2. censusS
