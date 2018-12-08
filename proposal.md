@@ -4,7 +4,7 @@
 
 ## Project Description : 
   
-      Our Project reveals 
+      Our Project reveals the crime reports around Austin. We will examine the relationship between Crime rate and Income level of crime area, trends in crime rates over the course of the year, types of crime and crime rate, crime rate in different years, clearance rate for different types of crime in 2018.
 
 # Team #6
 
