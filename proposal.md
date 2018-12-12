@@ -9,10 +9,8 @@
 # Team #6
 
 1. Crime rate vs income level by zipcode 2017 (for both violent crimes and all crimes in general)
-2. Crime rate vs time of the year in 2017
-3. Crime status: clearance rate for different types of crime in 2017
-4. Type of crimes (violent vs. non violent) (rates) in 2017
-5. Crime rate vs year (2015, 2016, 2017 and 2018)
+2. Type of crimes (violent vs. non violent) (rates) in 2017
+3. Crime rate vs year (2015, 2016, 2017 and 2018)
 
 
 
