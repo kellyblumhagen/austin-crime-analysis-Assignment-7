@@ -1,3 +1,0 @@
-file name                    source
-Crime_Reports__beta_         https://data.austintexas.gov/Public-Safety/Crime-Reports-beta-/fdj4-gpfu (Then use Export tab to export CSV)
-Crime_Reports_2017           https://data.austintexas.gov/Public-Safety/Crime-Reports-2017/4bxg-n3iv  (Then use Export tab to export CSV)
