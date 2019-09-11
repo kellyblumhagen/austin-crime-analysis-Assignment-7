@@ -7,11 +7,11 @@ Our group sought to uncover trends in crimes reported to Austin Police Departmen
 
 See included PowerPoint for summary of key findings and visualizations.
 
-## Required Data Sources
+### Data Source:
 * [APD Crime Data 2017](https://data.austintexas.gov/Public-Safety/Crime-Reports-2017/4bxg-n3iv) (then click "export")
 * [APD Crime Data (2003 - present)](https://data.austintexas.gov/Public-Safety/Crime-Reports-beta-/fdj4-gpfu) (then click "export"
 
-## Requirements
+### Prerequisites:
 * python 3.6.7
 * notebook 5.7.0
 * pandas 0.23.4
